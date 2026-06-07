@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JPA Project Running</title>
+</head>
+<body>
+    <h1>Spring Boot JPA Project is Running Successfully</h1>
+    <p>This project is backend-only (REST API with MySQL + JPA).</p>
+    <p>Use Postman to test APIs like /students</p>
+</body>
+</html>
